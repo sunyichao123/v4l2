@@ -58,7 +58,7 @@ int main()
 			perror("查询内核空间失败\n");
 
 		//映射 mmap
-
+		mmap();
 	}
 		
 	
